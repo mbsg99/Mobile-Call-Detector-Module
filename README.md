@@ -4,6 +4,14 @@ Visit JLCPCB (https://jlcpcb.com/RAT)
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
 
+# Introduction
+
+Cell phone or mobile detectors work on the idea of detecting RF signal frequencies. These circuits are built in such a way that they can rectify low signal frequencies with minimal noise. The idea of mutual induction is used when an inductor is put near an RF signal frequency source to receive the signal. The low-power signals are amplified and transmitted to any indication that displays the response, as we did in our experiment with LEDs.
+
+This can be a great exciting project since we can detect if someone is sending or receiving a message, or if a call is coming or someone is attempting to call someone using this simple electrical circuit. As you can see in the image above, this project just requires a few electronic components. This project makes no use of expensive materials. 
+
+The led can be changed with a transistor to control a relay, which can then control a buzzer after the basic working principle is understood. As a result, the buzzer will activate whenever someone sends or gets a message.
+
 # Ordering the PCBs From JLCPCB
 
 Full Process is shown using Screenshots Step-wise.
